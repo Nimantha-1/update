@@ -1,0 +1,13 @@
+-- Create Orders table
+CREATE TABLE orders (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    item VARCHAR(255) NOT NULL,
+    quantity INT NOT NULL
+);
+
+-- Create Checks table
+CREATE TABLE checks (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    item VARCHAR(255) NOT NULL,
+    quantity INT NOT NULL
+);

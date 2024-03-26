@@ -1,0 +1,444 @@
+.dashb-body{
+    margin-left: 17.5%;
+    margin-top: -85.5vh;
+    margin-right: 18%;
+    
+}
+
+.tablerow{
+    color:#fff ;
+    position: sticky;
+}
+.searchingbar{
+    background-color: rgb(198, 58, 11) !important;
+    position: sticky;
+    border-radius: 10px;
+    margin-top: -50vh;
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.searching{
+    width: 110vh;
+    margin-left: 20px;
+}
+#searching-btn{
+    margin-left: 5vh;
+}
+.submitingbtn{
+    background-color: black;
+    border: black;
+}
+.submitingbtn:hover{
+    background-color: rgb(39, 38, 38);
+    border-color: black;
+}
+.dashing-section{
+    border-radius: 10px;
+    margin-top: 0px;
+    padding-bottom: 1px;
+}
+.mb-3{
+    display: flex;
+    position: sticky;
+    background-color: rgb(226, 218, 218);
+    border: 2px solid rgb(192, 188, 188);
+    border-radius: 10px;
+}
+
+.dashing-section .nav-pills .nav-link.active {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+}
+.inv-topic-dashing{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 10px;
+    background-color: #b11b1b !important;
+
+    margin-top: -15px;
+    border-radius: 5px;
+}
+
+.table-header-bg {
+    background-color: #b11b1b !important;
+}
+
+.printbtn{
+    background-color: black;
+    border-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+}
+.printbtn:hover{
+    background-color: rgb(39, 38, 38);
+    border-color: black;
+}
+.printbtnx{
+    background-color: black;
+    border-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+}
+.printbtnx:hover{
+    background-color: rgb(39, 38, 38);
+    border-color: black;
+}
+.inv-content2{
+    background-color: rgb(48, 24, 16) !important;
+    color: #fff;
+    position: sticky;
+    border-radius: 5px;
+    margin: 5px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.addingmargin{
+    margin-left: 20px;
+    background-color: purple;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    padding: 7px 20px;
+}
+.addingmarginx{
+    margin-left: 20px;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #b11b1b;
+    padding: 5px 10px;
+}
+.addingmarginxy{
+    margin-right: -100px;
+    margin-left: 20px;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #b11b1b;
+    padding: 5px 10px;
+}
+.addingmarginy{
+    margin-left: 20px;
+    margin-right: -100px;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #19ec09;
+    padding: 5px 10px;
+}
+.addingmarginmore{
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+#createbutton{
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #000000;
+    padding: 5px 15px 15px 15px;
+}
+/*check insert*/
+#check-topic{
+    color:#fff;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.checkInsertForm{
+    display: flex;
+}
+#checkCont{
+    color: #fff;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#inv_id{
+    margin-left: 10px;
+    padding: 1px 50px 1px 50px;
+}
+#checkinsertbut{
+    margin-top: 30px;
+    margin-left: 300px;
+    padding: 10px 50px 10px 50px;
+    margin-bottom: 120px;
+    border-radius: 5px;
+    background-color: #0d5c08;
+    color: #fff;
+}
+/*notification.js*/
+#remindcolorx{
+    border-radius: 10px;
+    padding: 5px;
+    background-color: yellow;
+    list-style-type: none;
+}
+#remindcolory{
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(255, 0, 0);
+    list-style-type: none;
+}
+.notifications{
+    color: #1e1d1d;
+    font-style: italic;
+}
+.notifications h5{
+    color: #fff;
+    font-size: 15px;
+}
+#notiscrol{
+    max-height: 400px;
+    overflow-y:auto;
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+    scrollbar-width: none;
+}
+/**/
+/**/
+.contactinput{
+    margin-bottom: 10px;
+    width: 60%;
+    height: 40px;
+    background-color: #838481;
+    color: rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+}
+.contactinputbody{
+    margin-bottom: 20px;
+    width: 60%;
+    height: 100px;
+    background-color: #838481;
+    color: rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+
+}
+.emaillabel{
+    color: white;
+}
+#formemail{
+    margin-left: 200px;
+}
+#emailsentbtn{
+    background-color: rgb(198, 58, 11);
+    border-radius: 10px;
+    border: 2px solid rgb(128, 58, 0);
+    padding: 5px 50px 5px 50px;
+    margin-left: 20%;
+    font-size: 20px;
+    color: white;
+}
+/**/
+
+@media (width < 1150px) {
+    .dashing-section{
+        font-size: 13px;
+    }
+    .inv-dashing{
+        font-size: 13px;
+    }
+    .printbtn{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+  }
+  @media (width < 1060px) {
+    .addingmargin{
+        margin-left: 10px;
+        padding: 4px 5px;
+    }
+    .addingmarginxy{
+        margin-right: -5px;
+        margin-left: 0px;
+        padding: 3px 2px;
+    }
+    .addingmarginmore{
+        padding: 1px 2px;
+    }
+    .addingmarginy{
+        margin-left: 10px;
+        margin-right: -5px;
+        padding: 2px 2px;
+    }
+    #emailsentbtn{
+        padding: 5px 50px 5px 50px;
+        margin-left: 20%;
+        font-size: 20px;
+    }
+    .contactinput{
+        width: 80%;
+        height: 40px;
+    }
+    .contactinputbody{
+        width: 80%;
+        height: 100px;    
+    }
+    #formemail{
+        margin-left: 100px;
+    }
+  }
+  @media (width < 1000px) {
+    .foot{
+        margin-left: -200px;
+    }
+    .notifications h5{
+        font-size: 11px;
+    }
+  }
+  @media (width < 920px) {
+    .addingmargin{
+        margin-left: 5px;
+        padding: 3px 5px;
+        font-size: 10px;
+    }
+    .addingmarginxy{
+        margin-left: -5px;
+        padding: 2px 1px;
+        font-size: 10px;
+
+    }
+    .addingmarginmore{
+        padding: 1px 1px;
+        font-size: 10px;
+    }
+    .addingmarginy{
+        margin-left:5px;
+        padding: 1px 1px;
+        font-size: 10px;
+    }
+   
+  }
+  @media (width < 700px) {
+    .dashing-section{
+        font-size:9px;
+    }
+    .inv-dashing{
+        font-size: 9px;
+    }
+    .notifications h5{
+        font-size: 9px;
+    }
+    /*dashboard button*/
+    .addingmargin{
+        margin-left: 5px;
+        padding: 3px 5px;
+        font-size: 8px;
+    }
+    .addingmarginxy{
+        margin-left: -5px;
+        padding: 2px 1px;
+        font-size: 8px;
+
+    }
+    .addingmarginmore{
+        padding: 1px 1px;
+        font-size: 8px;
+    }
+    .addingmarginy{
+        margin-left:5px;
+        padding: 1px 1px;
+        font-size: 8px;
+    }
+    
+    .contactinput{
+        width: 90%;
+        height: 40px;
+    }
+    .contactinputbody{
+        width: 90%;
+        height: 100px;    
+    }
+    #formemail{
+        margin-left: 50px;
+    }
+  }
+
+  @media (width < 650px) {
+    .dashb-body {
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: -85.5vh;
+    }
+    body{
+        border: 7px solid black;
+        border-radius: 10px;
+        background-color: unset;
+    }
+    .dashing-section{
+        font-size:12px;
+    }
+    .addingmargin{
+        margin-left: 5px;
+        padding: 3px 5px;
+        font-size: 10px;
+    }
+    .addingmarginxy{
+        margin-left: -5px;
+        padding: 2px 1px;
+        font-size: 10px;
+
+    }
+    .addingmarginmore{
+        padding: 1px 1px;
+        font-size: 10px;
+    }
+    .addingmarginy{
+        font-size: 10px;
+    }
+    #emailsentbtn{
+        padding: 5px 50px 5px 50px;
+        margin-left: 30%;
+        font-size: 20px;
+    }
+  }
+
+  @media (width < 500px) {
+    .dashing-section{
+        font-size:10px;
+    }
+    .printbtn{
+        margin-left: -50px;
+    }
+    .addingmargin{
+        margin-left: 5px;
+        padding: 3px 5px;
+        font-size: 8px;
+    }
+    .addingmarginxy{
+        margin-left: -5px;
+        padding: 2px 1px;
+        font-size: 8px;
+
+    }
+    .addingmarginmore{
+        padding: 1px 1px;
+        font-size: 8px;
+    }
+  }
+
+  @media (width < 430px) {
+    .dashing-section{
+        font-size:8px;
+        font-weight: bolder;
+    }
+    .addingmargin{
+        font-size: 6px;
+    }
+    .addingmarginxy{
+        font-size: 6px;
+
+    }
+    .addingmarginmore{
+        font-size: 6px;
+    }
+    .addingmarginy{
+        font-size: 6px;
+    }
+    #emailsentbtn{
+        padding: 5px 50px 5px 50px;
+        margin-left: 18%;
+        font-size: 20px;
+    }
+  }
